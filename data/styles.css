@@ -12,6 +12,11 @@
 }
 .box_1 {
 }
+.placeholder {
+}
+.primary_button {
+  color:#FFFFFF;
+}
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -59,6 +64,8 @@
 }
 .paragraph {
   text-align:left;
+}
+.line {
 }
 .table_cell {
 }
